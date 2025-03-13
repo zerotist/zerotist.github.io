@@ -1,0 +1,24 @@
+@font-face { 
+    font-family: 'RiaSans'; 
+    font-style: normal; 
+    font-weight: 400; 
+    src: url(../fonts/NotoSansKR-Thin.woff2) format('woff2'), 
+    url(../fonts/NotoSansKR-Thin.woff) format('woff'), 
+    url(../fonts/NotoSansKR-Thin.otf) format('opentype'); 
+}
+@font-face { 
+    font-family: 'RiaSans'; 
+    font-style: normal; 
+    font-weight: 600; 
+    src: url(../fonts/NotoSansKR-Thin.woff2) format('woff2'), 
+    url(../fonts/NotoSansKR-Thin.woff) format('woff'), 
+    url(../fonts/NotoSansKR-Thin.otf) format('opentype'); 
+}
+@font-face { 
+    font-family: 'RiaSans'; 
+    font-style: normal; 
+    font-weight: 800; 
+    src: url(../fonts/NotoSansKR-Thin.woff2) format('woff2'), 
+    url(../fonts/NotoSansKR-Thin.woff) format('woff'), 
+    url(../fonts/NotoSansKR-Thin.otf) format('opentype'); 
+}
